@@ -4,4 +4,4 @@ HTML/CSS/JS practice, preparing to learn React, and being prepared for future fr
 
 The app is self-explanatory and keyboard-compatible.
 
-Use at: [Calculator](nathankyryk.github.io/calc)
+Use at: [Calculator](https://nathankyryk.github.io/calc)
